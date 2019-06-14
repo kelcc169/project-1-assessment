@@ -22,10 +22,6 @@ document.addEventListener('DOMContentLoaded', function (e) {
         };
     });
 
-    inputEl.addEventListener('click', function (e) {
-        inputEl.value = '';
-    });
-
 });
 
 //functions
